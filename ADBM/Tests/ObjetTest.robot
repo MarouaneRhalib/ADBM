@@ -4,3 +4,5 @@ FirstTestSuite
     
 SecondTestSuite
     log    DoneWith2
+ThirdTestSuite
+    Log    DoneWith3
